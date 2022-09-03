@@ -11,5 +11,5 @@ for (int i = 1; i < B; i++)
     {
     result = result*A;
     }
-Console.WriteLine($"Number - {result}");
+Console.WriteLine($"A number is {result}");
 
