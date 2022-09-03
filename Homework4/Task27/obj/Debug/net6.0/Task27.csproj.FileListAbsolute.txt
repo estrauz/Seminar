@@ -1,0 +1,15 @@
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\bin\Debug\net6.0\Task27.exe
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\bin\Debug\net6.0\Task27.deps.json
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\bin\Debug\net6.0\Task27.dll
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\bin\Debug\net6.0\Task27.pdb
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.dll
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\refint\Task27.dll
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.pdb
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework4\Task27\obj\Debug\net6.0\ref\Task27.dll
