@@ -8,28 +8,13 @@ int elements = int.Parse(Console.ReadLine());
 
 int[] arr = new int[elements];
 
-// Метод для упрощаения проверки, например:
-// Элементы массивы: 0  1  2  3  4  5  6  7  8
-//      int[] arr = {1, 5, 4, 3, 2, 6, 7, 1, 1};
-
-void EasyToCheck (int[] array)  
-{
-    Console.Write("The index: ");
-
-        for (int i =  0; i < arr.Length; i++)
-        {
-            Console.Write($"{i}  ");
-        }
-    Console.WriteLine(" ");
-}
-
 void PrintArray (int[] array)  
 {
     Console.Write("The array: ");
 
         for (int i =  0; i < array.Length; i++)
         {
-            arr[i] = new Random().Next(1, 100);
+            arr[i] = new Random().Next(1, 10);
             Console.Write($"{array[i]} ");
         }
     Console.WriteLine(" ");
@@ -43,16 +28,16 @@ void SumOddNumbersOfArray (int[] array)
 
     for (int i =  0; i < arr.Length; i++)
     {
-        if (array[i] % 2 > 0)
+        if (i % 2 > 0)
         {
-            sum = sum + i;
+            sum = sum + array[i];
         }
     
     }
 Console.Write($"{sum} ");
 }
 
-EasyToCheck(arr);
+
 PrintArray(arr);
 SumOddNumbersOfArray(arr);
 

@@ -21,13 +21,19 @@ void PrintArray (int[] array)
 }
 void EvenNumbersOfArray (int[] array)
 { 
+    int result = 0;
+
     Console.Write("Even numbers of this array are: ");
 
+          
         for (int i =  0; i < arr.Length; i++)
         
-            if (arr[i] % 2 == 0)
-                
-        Console.Write($"{arr[i]} ");
+            if (array[i] % 2 == 0) result ++;
+                              
+        Console.WriteLine($"{result}");
+    
+    if (result == 0) Console.Write("There are no even elements");
+    
 }
 PrintArray(arr);
 EvenNumbersOfArray(arr);
