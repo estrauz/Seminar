@@ -6,19 +6,15 @@
 8 4 2 4 
 17 -> такого числа в массиве нет */
 
+int[,] matrix = new int[10,10];
+
 Console.Write("Enter a number of row: ");
 int row = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Enter a number of column: ");
 int column = Convert.ToInt32(Console.ReadLine());
 
-int[,] matrix = new int[row,column];
-
 RandomMatrix(matrix);
-
-Console.Write("Request the element: ");
-int number = Convert.ToInt32(Console.ReadLine());
-
 FindElement(matrix);
 
 void RandomMatrix(int[,] matr)
@@ -36,19 +32,16 @@ void RandomMatrix(int[,] matr)
 
 void FindElement (int[,] matr)
 {
-    for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            if (number == matr[i,j]) 
-            {
-                Console.WriteLine($"{matr[i,j]} - the number included in the matrix");
-            }
-            else Console.WriteLine($"{number} - that number NOT included in the matrix");
-        }
+if (row < matr.GetLength(0) && row > 0 && 
+    column < matr.GetLength(1) && column > 0) 
+{
+    Console.WriteLine($"Element [{row}, {column}] - the element included in the matrix. The value of that elemnet is {matrix[row,column]}");
+}
+    else Console.WriteLine($"That element [{row}, {column}] - that element NOT included in the matrix");
+        
 
-    }
-}    
+}
+   
 
     
     
