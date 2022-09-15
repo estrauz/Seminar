@@ -18,6 +18,7 @@ double result = 0;
 double AverageCol = 0;
 
 FillArray(matrix);
+FindAvg(matrix);
 
 
 void FillArray(double[,] matr)
@@ -32,19 +33,20 @@ void FillArray(double[,] matr)
     Console.WriteLine();
     }
 }
-
-
+void FindAvg(double[,] matr)
+{
     Console.Write("The average of columns is: ");
-    for (int j = 0; j < matrix.GetLength(1); j++)
+    for (int j = 0; j < matr.GetLength(1); j++)
     {
-        for (int i = 0; i < matrix.GetLength(0); i++)
+        for (int i = 0; i < matr.GetLength(0); i++)
         {
-            result = result + matrix[i,j];
+            result = result + matr[i,j];
         }
     AverageCol = result / column;
     Console.Write($"{AverageCol:f2} ");
     result = 0;
     }
+}
     
 
 
