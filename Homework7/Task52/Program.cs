@@ -14,11 +14,11 @@ int column = Convert.ToInt32(Console.ReadLine());
 
 double[,] matrix = new double[row,column];
 
-FillArray(matrix);
-FindAvg(matrix);
-
 double result = 0;
 double AverageCol = 0;
+
+FillArray(matrix);
+FindAvg(matrix);
 
 void FillArray(double[,] matr)
 {
@@ -35,13 +35,14 @@ void FillArray(double[,] matr)
 
 void FindAvg(double[,] matr)
 {
+    
     Console.Write("The average of columns is: ");
     for (int j = 0; j < matr.GetLength(1); j++)
     {
         for (int i = 0; i < 1; j++)
-            {
-                result = result + matrix(i,j);
-            }
+        {
+            result = result + matr[i,j];
+        }
     }
     AverageCol = result / matrix.GetLength(1);
 }
