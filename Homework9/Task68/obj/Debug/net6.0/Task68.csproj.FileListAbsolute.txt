@@ -1,0 +1,15 @@
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\bin\Debug\net6.0\Task68.exe
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\bin\Debug\net6.0\Task68.dll
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.dll
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\refint\Task68.dll
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+C:\Users\strau\OneDrive\Документы\GeekBrains\Seminar C#\Homework9\Task68\obj\Debug\net6.0\ref\Task68.dll
